@@ -1,9 +1,21 @@
 # Gita & Advaita AI – Domain-Specific LLM Chatbot
 
-A domain-specific Large Language Model fine-tuned on **Bhagavad Gita and Advaita Vedanta philosophy** to provide spiritually grounded conversational responses.
+A RAG-based chatbot that provides spiritual guidance using teachings from the Vedas, Upanishads, Bhagavad Gita, and Yoga Vashishta, powered by a domain-specific Large Language Model fine-tuned on Bhagavad Gita and Advaita Vedanta philosophy.
 
 This project was developed as part of a **Natural Language Processing coursework group project**.
 
+---
+## Live Demo
+
+Try the chatbot here:
+
+Hugging Face deployment:  
+https://huggingface.co/spaces/Prithviraj6544/gita-chatbot-live
+
+Streamlit Deployment  
+[https://k8xjj6hegddbhysmilqnfz.streamlit.app/
+](https://k8xjj6hegddbhysmilqnfz.streamlit.app/)
+---
 ---
 ## Project Overview
 
@@ -62,7 +74,7 @@ This was a **team project**, and I contributed across multiple stages of develop
 - Apple MLX  
 - Hugging Face Transformers  
 - Streamlit  
-- Llama 3.2  
+- Llama 3.2
 
 ---
 ## License
