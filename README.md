@@ -23,13 +23,15 @@ Hugging Face Deployment:
 https://huggingface.co/spaces/Prithviraj6544/gita-chatbot-live
 
 ---
-## Implementation Repository
+## Related Repositories
 
-The RAG implementation for this project is maintained here:
+This project was developed across multiple repositories as part of a team project.
 
+**Fine-tuning implementation (QLoRA + MLX):**  
+https://github.com/prithvi-kaizen/gita-advaita-bot
+
+**RAG implementation and chatbot application:**  
 https://github.com/Sujato-Dutta/Vedic-Spiritual-Master-Chatbot
-
-This repository contains the main training and deployment code.
 
 ---
 ## My Contribution
